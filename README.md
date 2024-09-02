@@ -61,7 +61,7 @@ Based on the evaluation metrics (RMSE and MAE), SVD appears to be the most effec
 ## Repository Structure
 - <code>data/ratings_500k.csv</code>: Contains dataset used in the analysis, 500k samples derived from following two json files:
   - <code>data/metadata.json</code>: contains information on the books such as title, author, item id
-  - <code>[Links to external drive: ratings.json](https://1drv.ms/u/s!An52_3Dm4mMNlimcP4o7uIkKkCFX?e=CWGgCg)</code>: contains information such as item_id, user_id and ratings
+  - <code>[Link to external drive: ratings.json](https://1drv.ms/u/s!An52_3Dm4mMNlimcP4o7uIkKkCFX?e=CWGgCg)</code>: contains information such as item_id, user_id and ratings
 - <code>notebooks/Book-Recommendation-System.ipynb</code>: Jupyter notebook with code for data analysis.
 - <code>README.md</code>: Summary of findings and link to notebook
 
